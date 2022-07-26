@@ -1,0 +1,31 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin-bottom: 20px;
+}
+
+.container{
+    display: flex;
+    margin: 50px;
+}
+
+.fruit-list{
+    margin: 20px;
+}
+
+.user-basket{
+    margin: 20px;
+}
